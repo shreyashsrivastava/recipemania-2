@@ -5,6 +5,10 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
+p{
+    font-size: 22px;
+}
+
 .header{
     font-family: monospace;
     padding-left: 20px;
